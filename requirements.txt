@@ -6,4 +6,3 @@ yfinance
 requests
 matplotlib
 feedparser
-concurrent
