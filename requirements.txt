@@ -7,3 +7,4 @@ requests
 matplotlib
 feedparser
 ta
+textblob
