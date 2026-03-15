@@ -5,6 +5,5 @@ scikit-learn
 yfinance
 requests
 matplotlib
-
 feedparser
 concurrent
