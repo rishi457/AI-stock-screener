@@ -1,10 +1,12 @@
 streamlit
+yfinance
 pandas
 numpy
-scikit-learn
-yfinance
-requests
-matplotlib
-feedparser
 ta
+feedparser
 textblob
+scikit-learn
+scipy
+tensorflow
+matplotlib
+seaborn
