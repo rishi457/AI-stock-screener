@@ -287,25 +287,3 @@ elif menu == "News Intelligence":
     if company:
         for h in get_news(company):
             st.write(h)
-
-       
-
-elif menu == "AI Chatbot":
-
-    q = st.text_input("Ask investing question")
-
-    if q:
-
-        q = q.lower()
-
-        if "buy" in q:
-
-            st.write("Look for strong earnings growth and low debt.")
-
-        elif "risk" in q:
-
-            st.write("Diversify across sectors.")
-
-        else:
-
-            st.write("Analyze fundamentals and technical trends.")
