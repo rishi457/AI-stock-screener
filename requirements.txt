@@ -1,7 +1,11 @@
-numpy
-pandas
-matplotlib
-scikit-learn
-tensorflow
-yfinance
 streamlit
+yfinance
+pandas==2.1.4
+numpy
+scikit-learn
+matplotlib
+seaborn
+ta
+feedparser
+textblob
+scipy
